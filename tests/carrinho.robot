@@ -15,4 +15,4 @@ Deve adicionar um item ao carrinho
     Go To Restaurantes
     Choose Restaurant       ${name}     ${description} 
     Choose Product          ${product}
-    Check Product
+    Check Product 
